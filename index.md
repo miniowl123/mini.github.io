@@ -8,7 +8,6 @@
     <th>matriklinumber</th>
     <th>Pilt</th>
     <th>Link</th>
-    <th>Text</th>
   </tr>
   <tr>
     <td>194142</td>
